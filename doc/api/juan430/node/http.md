@@ -1,5 +1,5 @@
-# HTTP
-
+# HTTP juan430/node
+juan430/node/@juan430
 <!--introduced_in=v0.10.0-->
 
 > Stability: 2 - Stable
@@ -258,7 +258,7 @@ type other than {net.Socket}.
 
 <!-- YAML
 added: v8.1.0
--->
+-->meta
 
 * `socket` {stream.Duplex}
 
@@ -282,7 +282,7 @@ The `socket` argument can be an instance of {net.Socket}, a subclass of
 
 <!-- YAML
 added: v8.1.0
--->
+-->m
 
 * `socket` {stream.Duplex}
 * `request` {http.ClientRequest}
